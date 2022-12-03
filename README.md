@@ -73,14 +73,12 @@ The result for the comparison of Unet-2D and Unet-3D is presented in Table below
 <thead>
   <tr>
     <th class="tg-v0hj" rowspan="2"><br>Datasets</th>
-    <th class="tg-v0hj" colspan="2">Valid</th>
-    <th class="tg-v0hj" colspan="2">Test</th>
+    <th class="tg-v0hj" colspan="2">Validation</th>
   </tr>
   <tr>
     <td class="tg-dvid">Unet-2D</td>
     <td class="tg-dvid">Unet-3D</td>
-    <td class="tg-dvid">Unet-2D</td>
-    <td class="tg-dvid">Unet-3D</td>
+
   </tr>
 </thead>
 <tbody>
@@ -88,8 +86,7 @@ The result for the comparison of Unet-2D and Unet-3D is presented in Table below
     <td class="tg-0pky">Cervical spine</td>
     <td class="tg-fymr">0.8921</td>
     <td class="tg-0pky">0.6451</td>
-    <td class="tg-0pky">0.6729</td>
-    <td class="tg-0pky">0.7488</td>
+
   </tr>
   <tr>
     <td class="tg-0pky">Siegen and Cervical spine</td>
@@ -102,36 +99,31 @@ The result for the comparison of Unet-2D and Unet-3D is presented in Table below
     <td class="tg-0pky">Zenodo,Siegen,Cervical spine</td>
     <td class="tg-fymr">0.9125</td>
     <td class="tg-0pky">0.7769</td>
-    <td class="tg-0pky">0.7762</td>
-    <td class="tg-0pky">0.8063</td>
+
   </tr>
   <tr>
     <td class="tg-0pky">Osf,Siegen,Cervical spine</td>
     <td class="tg-fymr">0.8947</td>
     <td class="tg-0pky">0.7022</td>
-    <td class="tg-0pky">0.541</td>
-    <td class="tg-0pky">0.667</td>
+
   </tr>
   <tr>
     <td class="tg-0pky">Zenodo,Whole spine</td>
     <td class="tg-fymr">0.9101</td>
-    <td class="tg-0pky">0.7675</td>
     <td class="tg-0pky">0.7503</td>
-    <td class="tg-0pky">0.7973</td>
+
   </tr>
   <tr>
     <td class="tg-0pky">Zenodo,Siegen,Whole spine,Osf</td>
-    <td class="tg-fymr">0.8986</td>
-    <td class="tg-0pky">0.7101</td>
+    <td class="tg-fymr">0.9023</td>
     <td class="tg-0pky">0.6755</td>
-    <td class="tg-0pky">0.7659</td>
+
   </tr>
   <tr>
     <td class="tg-0pky">Zenodo, Siegen, Whole spine,Cervical spine, Osf (tripled augmentation)</td>
     <td class="tg-fymr">0.885</td>
     <td class="tg-0pky">0.7586</td>
-    <td class="tg-0pky">0.668</td>
-    <td class="tg-0pky">0.748</td>
+
   </tr>
 </tbody>
 </table>
