@@ -92,8 +92,7 @@ The result for the comparison of Unet-2D and Unet-3D is presented in Table below
     <td class="tg-0pky">Siegen and Cervical spine</td>
     <td class="tg-fymr">0.8943</td>
     <td class="tg-0pky">0.5950</td>
-    <td class="tg-0pky">0.6403</td>
-    <td class="tg-0pky">0.6813</td>
+
   </tr>
   <tr>
     <td class="tg-0pky">Zenodo,Siegen,Cervical spine</td>
